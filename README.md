@@ -83,20 +83,35 @@ Enter the starting node for BFS: A
 BFS Traversal Order: ['A', 'B', 'C']
 ### Input:
 Enter number of nodes: 6
+
 Enter number of nodes: 6
-Enter node: A
+
+Enter node: A 
+
 Enter neighbors of A (comma separated, leave blank if none): B, C
+
 Enter node: B
+
 Enter neighbors of B (comma separated, leave blank if none): D
+
 Enter node: C
+
 Enter neighbors of C (comma separated, leave blank if none): E
+
 Enter node: D
+
 Enter neighbors of D (comma separated, leave blank if none): F
+
 Enter node: E
-Enter neighbors of E (comma separated, leave blank if none): 
+
+Enter neighbors of E (comma separated, leave blank if none):
+
 Enter node: F
+
 Enter neighbors of F (comma separated, leave blank if none): 
+
 Enter the starting node for BFS: A
+
 ### Output:
 BFS Traversal Order: ['A', 'B', 'C', 'D', 'E', 'F']
 
